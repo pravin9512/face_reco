@@ -1,0 +1,21 @@
+body{
+    background-color: darkseagreen;
+}
+.head{
+    width:80%;
+    font-size: 22px;
+
+}
+.items{
+    color:rgb(17, 160, 160);
+    font-size: 18px;
+}
+#object_name,#accuracy{
+    color:rgb(17, 160, 160);
+}
+#cam{
+    border: 2px ridge grey;
+    width: 350px;
+    height: 300px;
+    border-radius: 15px;
+}
